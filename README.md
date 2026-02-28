@@ -24,7 +24,7 @@
 
 ## 🌐 Translations
 
-[English](./translations/en/README.md) | [繁體中文](./translations/zh-TW/README.md)
+[English](./translations/en/Vibe%20Coding%20%E9%9B%B6%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/README.md) | [繁體中文](./translations/zh-TW/Vibe%20Coding%20%E9%9B%B6%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/README.md)
 
 ---
 
